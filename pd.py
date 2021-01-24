@@ -21,7 +21,6 @@ class start:
             df = pd.concat([df, start.start_context(page)])
         start.save_context(df)
 
-
 if __name__ == '__main__':
     start.main(self=start)
     print('完成')
