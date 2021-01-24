@@ -26,6 +26,3 @@ if __name__ == '__main__':
     start.main(self=start)
     print('完成')
 
-# df = pd.read_html('https://www.kuaidaili.com/free/inha/6/')[0]
-# df.to_csv('ips.csv', index=False)
-
